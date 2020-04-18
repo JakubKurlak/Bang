@@ -11,8 +11,6 @@ public class Bang{
 //                "\nBlack Jack - press 2" +
 //                "\nAnother character - press 3");
 
-        //add some tekst
-
         ShootingClass shootingClass = new ShootingClass();
         NumberToAction numberToAction = new NumberToAction();
         RollingClass rollingClass = new RollingClass();
